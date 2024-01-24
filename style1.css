@@ -1,6 +1,6 @@
 @charset "utf-8";
 body {
-margin: 0;
+
 }
 .clearƒix::after{
 content: "";
@@ -43,8 +43,7 @@ width: 100px;
 height: 150px;
 background: #ff9e6b;
 }
-.brown--box {
-  float: left;
+.brown--box {s
 width: 250px;
 height: 100px;
 background: #8c2727;
